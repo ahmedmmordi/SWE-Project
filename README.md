@@ -8,7 +8,7 @@ This document outlines the Software Requirements Specification (SRS) for the Edu
 
 ## 1. Software Requirements Specification (SRS)
 
-- SRS Document: [Educational Management SRS.pdf](Educational Mangment SRS.pdf)
+- SRS Document: [EducationalManagementSRS.pdf](EducationalMangmentSRS.pdf)
 
 This document contains a comprehensive description of the system requirements, including functional and non-functional specifications, design constraints, system interfaces, and more.
 
